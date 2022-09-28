@@ -33,7 +33,7 @@ This project taught me how to add background with the respect of what seller wan
 ## Screenshot 
 
 
-[Live Link](https://stalwart-mermaid-058b04.netlify.app/)
+# [Live Link](https://tranquil-croissant-7d712b.netlify.app/)
 
 ![What's Trend In](./Capture.PNG)
 
